@@ -1,6 +1,6 @@
 cloner un repository : git clone [url]
 
 push :
-git add [fichier]
+git add [fichier] (si on fait "git add ." : ajoute tout)
 git commit -m ["commentaire"]
 git push -u origin main
